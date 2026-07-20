@@ -8,3 +8,4 @@ Compare seasons, viewership, and global availability across a catalog of more th
 Preview
 ------
 ![Project Preview](p1.jpg)
+![Project Preview](p2.jpg)
